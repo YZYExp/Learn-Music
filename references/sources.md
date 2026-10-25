@@ -1,0 +1,121 @@
+# 资料索引
+
+就近引用见正文。初版检索日期：2026-10-25。
+
+- [听觉入门课程](https://www.open.edu/openlearn/history-the-arts/discovering-music-through-listening) — 01
+- [一件近现代琵琶藏品页](https://www.metmuseum.org/art/collection/search/505247) — 01, 19
+- [OpenStax关于声波传播的教材](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) — 02
+- [谐波与实际振动的说明](https://www.phys.unsw.edu.au/jw/harmonics.html) — 02
+- [频谱](https://www.phys.unsw.edu.au/jw/sound.spectrum.html) — 02, 19
+- [乐器与音乐信号导论](https://phys.unsw.edu.au/jw/musical-sounds-musical-instruments.html) — 02
+- [ICOM MUSIC分类资料入口](https://icom-music.mini.icom.museum/resources/classification-of-musical-instruments/) — 03
+- [琵琶专题](https://www.metmuseum.org/essays/the-pipa) — 03
+- [贾湖骨笛藏品说明](https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247261.shtml) — 03
+- [明代晚期至清初琵琶](https://www.metmuseum.org/art/collection/search/503651) — 03, 07
+- [弦与谐波](https://phys.unsw.edu.au/jw/strings.html) — 04
+- [驻波与共振](https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance) — 04
+- [UNSW吉他声学导论](https://newt.phys.unsw.edu.au/music/guitar/) — 04
+- [新南威尔士大学：弓与弦的黏滑运动](https://newt.phys.unsw.edu.au/jw/Bows.html) — 05
+- [Yamaha：小提琴怎样发声](https://www.yamaha.com/en/musical_instrument_guide/violin/mechanism/mechanism004.html) — 05
+- [Yamaha：小提琴基本演奏姿势](https://www.yamaha.com/en/musical_instrument_guide/violin/play/) — 05
+- [Philharmonia：低音提琴](https://philharmonia.co.uk/resources/instruments/double-bass/) — 05
+- [The Met：阿马蒂小提琴及演奏录音](https://blog.metmuseum.org/guitarheroes/violin-ca-1559/) — 05
+- [Grinnell College：二胡实物与演奏说明](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/645) — 05
+- [Yale School of Music：二胡馆藏](https://music.yale.edu/browse-collection/erhu-45031973) — 05
+- [Yamaha：弦长与音高](https://www.yamaha.com/en/musical_instrument_guide/acoustic_guitar/mechanism/mechanism003.html) — 06
+- [Yamaha：古典吉他的弦与琴颈](https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/mechanism/mechanism002.html) — 06
+- [Yamaha：拾音器是什么](https://www.yamaha.com/en/musical_instrument_guide/electric_guitar/mechanism/mechanism002.html) — 06
+- [Yamaha：效果器的作用](https://www.yamaha.com/en/musical_instrument_guide/electric_guitar/play/play004.html) — 06
+- [Yamaha：古典吉他的形制发展](https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/structure/) — 06
+- [Yamaha：电贝斯的几种演奏方式及声音演示](https://www.yamaha.com/en/musical_instrument_guide/electric_guitar/play/play005.html) — 06
+- [Grinnell College：乌克丽丽](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2115) — 06
+- [UNESCO：古琴艺术及基本奏法](https://ich.unesco.org/en/RL/guqin-and-its-music-00061) — 07
+- [The Met：古琴，藏品2011.586及音频](https://www.metmuseum.org/art/collection/search/506800) — 07
+- [Grinnell College：筝的琴码与演奏结构](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1833) — 07
+- [不列颠哥伦比亚华乐协会：阮](https://www.bccma.net/instruments/ruan/) — 07
+- [The Met：三弦，约1900年，藏品44.51.1](https://www.metmuseum.org/art/collection/search/505692) — 07
+- [The Met：广州扬琴及传播线索](https://www.metmuseum.org/art/collection/search/500595) — 07
+- [Philharmonia：音乐会竖琴及演奏演示](https://philharmonia.co.uk/resources/instruments/harp/) — 08
+- [The Met：Érard踏板竖琴](https://www.metmuseum.org/art/collection/search/503163) — 08
+- [Cleveland Museum of Art：乌德，藏品1918.350](https://www.clevelandart.org/art/1918.350) — 08
+- [The Met：早期西塔琴，藏品89.4.190](https://www.metmuseum.org/art/collection/search/500759) — 08
+- [British Museum：拉维·香卡的西塔琴](https://www.britishmuseum.org/blog/ravi-shankars-sitar-bringing-india-world) — 08
+- [The Met：科拉的结构、地区与社会功能](https://www.metmuseum.org/art/collection/search/501115) — 08
+- [World Circuit：Toumani Diabaté及作品](https://www.worldcircuit.co.uk/artists/toumani-diabate/) — 08
+- [发声结构：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/flute/mechanism/mechanism002.html) — 09
+- [声学解释与音例：UNSW](https://www.phys.unsw.edu.au/jw/fluteacoustics.html) — 09
+- [SUTD博士研究：Dizi performance](https://repository.sutd.edu.sg/esploro/outputs/doctoral/Dizi-performance-acoustic-and-player-interactions/9910594809846) — 09
+- [Grinnell：shakuhachi](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2368) — 09
+- [演变：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/flute/structure/) — 09
+- [部件图：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/flute/mechanism/) — 09
+- [Duke：Dízi](https://sites.duke.edu/dumic/instruments/woodwinds/southern-and-eastern-asia/dizi/) — 09
+- [单簧管声学：UNSW](https://www.phys.unsw.edu.au/jw/clarinetacoustics.html) — 10
+- [双簧发声：UNSW](https://www.phys.unsw.edu.au/jw/double-reed-acoustics.html) — 10
+- [萨克斯与单簧管对比：UNSW](https://phys.unsw.edu.au/jw/saxacoustics.html) — 10
+- [萨克斯家族：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/saxophone/structure/structure002.html) — 10
+- [历史：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/saxophone/structure/) — 10
+- [The Met：Suona，89.4.20](https://www.metmuseum.org/art/collection/search/500597) — 10
+- [铜管声学：UNSW](https://www.phys.unsw.edu.au/jw/brassacoustics.html) — 11
+- [阀与音高：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/trumpet/mechanism/mechanism002.html) — 11
+- [滑管结构：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/trombone/mechanism/mechanism002.html) — 11
+- [家族发展：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/tuba/structure/structure002.html) — 11
+- [活塞与转阀：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/trumpet/mechanism/mechanism004.html) — 11
+- [右手与堵奏：Yamaha](https://www.yamaha.com/en/musical_instrument_guide/horn/play/play002.html) — 11
+- [结构与演奏：Grinnell，sheng](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1248) — 12
+- [Grinnell：hulusi](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1531) — 12
+- [Grinnell：bawu](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532) — 12
+- [口琴内部与供气：Grinnell](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2385) — 12
+- [实验研究：Bahnson、Antaki与Beery，1998](https://www.cs.bu.edu/faculty/snyder/TablatureWeb/Bahnson%20JASA%201998.pdf) — 12
+- [键盘手风琴：Grinnell](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2384) — 12
+- [钮式手风琴实例：Grinnell](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2387) — 12
+- [Smithsonian：Bandoneon](https://music.si.edu/object-day/bandoneon) — 12
+- [资料：Yamaha《Construction of the timpani》](https://www.yamaha.com/en/musical_instrument_guide/timpani/mechanism/mechanism002.html) — 13
+- [资料：Yamaha《Where does the player strike the head?》](https://www.yamaha.com/en/musical_instrument_guide/timpani/play/play003.html) — 13
+- [资料：Grinnell College 馆藏“小军鼓”](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/950) — 13
+- [资料：The Met 馆藏《Snare Drum》](https://www.metmuseum.org/art/collection/search/501206) — 13
+- [资料：Malu、Siddharthan《Acoustics of the Indian Drum》](https://arxiv.org/abs/math-ph/0001030) — 13
+- [延伸研究：Gowriprasad 等《Structural Segmentation and Labeling of Tabla Solo Performances》](https://arxiv.org/abs/2211.08790) — 13
+- [资料：Yamaha《What kind of instrument is the marimba?》](https://www.yamaha.com/en/musical_instrument_guide/marimba/mechanism/) — 14
+- [《Inside and outside the resonator pipes》](https://www.yamaha.com/en/musical_instrument_guide/marimba/mechanism/mechanism002.html) — 14
+- [资料：Yamaha《There is craft to the design of the tone plates, too》](https://www.yamaha.com/en/musical_instrument_guide/marimba/mechanism/mechanism003.html) — 14
+- [资料：Yamaha《Relatives of the marimba》](https://www.yamaha.com/en/musical_instrument_guide/marimba/structure/structure002.html) — 14
+- [资料：Yamaha《The vibraphone and its spinning fans》](https://www.yamaha.com/en/musical_instrument_guide/marimba/trivia/trivia004.html) — 14
+- [资料：国家档案局公开《The Suizhou Bianzhong of Marquis Yi of Zeng》申报材料](https://www.saac.gov.cn/mowcn/cn/c100512/202506/382e5c53ec654d16aeb7eedeaaf7389f/files/7c1d5b69c72c43c58f05a116a2f2d72d.pdf) — 14
+- [资料：UNESCO《Art of crafting and playing Mbira/Sansi》](https://ich.unesco.org/en/RL/art-of-crafting-and-playing-mbira-sansi-the-finger-plucking-traditional-musical-instrument-in-malawi-and-zimbabwe-01541) — 14
+- [旁读：Australian Museum《Mbira—Thumb Piano of Africa》](https://australian.museum/learn/cultures/international-collection/african/mbira-thumb-piano-of-africa/) — 14
+- [资料：Meinl Sonic Energy《How to use》](https://gerber.meinlsonicenergy.com/meinlsonicenergy/en/topics/How-to-use) — 14
+- [资料：The Met《The Piano: The Pianofortes of Bartolomeo Cristofori》](https://www.metmuseum.org/de/essays/the-piano-the-pianofortes-of-bartolomeo-cristofori-1655-1731) — 15
+- [资料：Yamaha《What is a Piano’s “Action”?》](https://www.yamaha.com/en/musical_instrument_guide/piano/mechanism/mechanism003.html) — 15
+- [资料：Yamaha《The Sound-Producing Mechanism》](https://www.yamaha.com/en/musical_instrument_guide/piano/mechanism/mechanism002.html) — 15
+- [资料：The Met 馆藏《Clavichord》](https://www.metmuseum.org/art/collection/search/504534) — 15
+- [资料：Yamaha《Acoustic or Digital?》](https://www.yamaha.com/en/musical_instrument_guide/piano/selection/selection002.html) — 15
+- [资料：Yamaha《The organ as a wind instrument》](https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/mechanism/) — 16
+- [资料：Yamaha《Producing a variety of timbres》](https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/play/) — 16
+- [资料：Yamaha《Pipe organs that use electric signals》](https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/play/play004.html) — 16
+- [资料：Ableton《Live Instrument Reference》，Analog 与 Sampler 章节](https://www.ableton.com/en/manual/live-instrument-reference/) — 16
+- [资料：Yamaha《How to Play Electric Piano, Clavinet and Organ Sounds》](https://hub.yamaha.com/keyboards/k-how-to/how-to-play-electric-piano-clavinet-and-organ-sounds/) — 16
+- [资料：MIDI Association《About MIDI—Part 1: Overview》](https://midi.org/about-midi-part-1overview) — 16, 22
+- [资料：PreSonus《I connected my keyboard… Why can’t I hear anything?》](https://support.presonus.com/hc/en-us/articles/210045923-I-connected-my-keyboard-to-my-computer-using-a-MIDI-cable-Why-can-t-I-hear-anything) — 16
+- [资料：LA Phil《The Young Person’s Guide to the Orchestra, Op. 34》](https://www.laphil.com/works/the-young-persons-guide-to-the-orchestra-op-34) — 17
+- [资料：London Symphony Orchestra《How to Build an Orchestra》](https://www.lso.co.uk/learn-and-discover/digital-activities-and-resources/how-to-build-an-orchestra/) — 17
+- [资料：中国非物质文化遗产网“江南丝竹”](https://www.ihchina.cn/project_details/12529) — 17
+- [资料：中国艺术研究院艺术与文献馆《江南丝竹（共9首）》](https://lib.zgysyjy.org.cn/ting_detail/596857.html) — 17
+- [资料：Herbie Hancock Institute《Jazz in America》，节奏组课程](https://www.jazzinamerica.org/LessonPlan/8/3/204) — 17
+- [资料：Elon University《Jam Session Etiquette for Rhythm Section》](https://www.elon.edu/u/academics/arts-and-sciences/jazz-studies/jam-session-etiquette-for-rhythm-section/) — 17
+- [资料：UNESCO《Gamelan》](https://ich.unesco.org/en/RL/gamelan-01607) — 17
+- [旁读：新加坡国家文物局《Gamelan Music》](https://www.roots.gov.sg/ich-landing/ich/gamelan-music) — 17
+- [开放大学音高与记谱课程](https://www.open.edu/openlearn/history-the-arts/introduction-music-theory-2-pitch-and-notation) — 18
+- [Ableton的节拍与速度说明](https://learningmusic.ableton.com/make-beats/beat-and-tempo.html) — 18
+- [佐治亚州立大学HyperPhysics](https://www.hyperphysics.phy-astr.gsu.edu/hbase/Music/etsum.html) — 18
+- [UNSW的律制与差音导论](https://www.phys.unsw.edu.au/jw/tartini-temperament.html) — 18
+- [木管调音说明](https://phys.unsw.edu.au/jw/tuning.html) — 18
+- [Ableton的节奏练习页](https://learningmusic.ableton.com/the-playground.html) — 19
+- [Ableton的节奏工具](https://learningmusic.ableton.com/make-beats/make-beats) — 20
+- [Ableton音符与音阶实验](https://learningmusic.ableton.com/notes-and-scales/play-with-notes-and-scales.html) — 20
+- [竖笛演奏页](https://www.yamaha.com/en/musical_instrument_guide/recorder/play/) — 20
+- [制式说明](https://www.yamaha.com/en/musical_instrument_guide/recorder/selection/selection002.html) — 20
+- [小提琴选用说明](https://www.yamaha.com/en/musical_instrument_guide/violin/selection/) — 21
+- [存放与环境说明](https://www.yamaha.com/en/musical_instrument_guide/acoustic_guitar/maintenance/maintenance002.html) — 21
+- [小提琴日常保养](https://www.yamaha.com/en/musical_instrument_guide/violin/maintenance/) — 21
+- [钢琴保养说明](https://www.yamaha.com/en/musical_instrument_guide/piano/maintenance/) — 21
+- [录音麦克风技术指南](https://www.shure.com/en-US/docs/education/Microphone-Techniques-for-Recording) — 22

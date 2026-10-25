@@ -1,0 +1,156 @@
+{
+  "title": "听见乐器",
+  "subtitle": "从发声原理到世界乐器、听辨与入门实践",
+  "language": "zh-CN",
+  "date": "2026-10-25",
+  "cover": "assets/images/opening.png",
+  "frontmatter": "frontmatter.md",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "从一声开始：怎样观察乐器",
+      "path": "chapters/01-listening.md",
+      "slug": "listening"
+    },
+    {
+      "id": "02",
+      "title": "振动、音高与音色",
+      "path": "chapters/02-sound.md",
+      "slug": "sound"
+    },
+    {
+      "id": "03",
+      "title": "分类地图与流动的历史",
+      "path": "chapters/03-maps-history.md",
+      "slug": "maps-history"
+    },
+    {
+      "id": "04",
+      "title": "一根弦怎样唱歌",
+      "path": "chapters/04-strings.md",
+      "slug": "strings"
+    },
+    {
+      "id": "05",
+      "title": "拉弦：让声音持续呼吸",
+      "path": "chapters/05-bowed.md",
+      "slug": "bowed"
+    },
+    {
+      "id": "06",
+      "title": "吉他与电贝斯：拨弦的不同去向",
+      "path": "chapters/06-guitar.md",
+      "slug": "guitar"
+    },
+    {
+      "id": "07",
+      "title": "琴筝琵琶与扬琴：弦上的分岔",
+      "path": "chapters/07-chinese-strings.md",
+      "slug": "chinese-strings"
+    },
+    {
+      "id": "08",
+      "title": "竖琴、乌德、西塔与科拉",
+      "path": "chapters/08-world-strings.md",
+      "slug": "world-strings"
+    },
+    {
+      "id": "09",
+      "title": "笛与箫：气流撞上边棱",
+      "path": "chapters/09-flutes.md",
+      "slug": "flutes"
+    },
+    {
+      "id": "10",
+      "title": "簧片的声音：单簧与双簧",
+      "path": "chapters/10-reeds.md",
+      "slug": "reeds"
+    },
+    {
+      "id": "11",
+      "title": "铜管：嘴唇与管道的协作",
+      "path": "chapters/11-brass.md",
+      "slug": "brass"
+    },
+    {
+      "id": "12",
+      "title": "自由簧：笙、口琴与手风琴",
+      "path": "chapters/12-free-reeds.md",
+      "slug": "free-reeds"
+    },
+    {
+      "id": "13",
+      "title": "鼓：膜、空气与节奏",
+      "path": "chapters/13-drums.md",
+      "slug": "drums"
+    },
+    {
+      "id": "14",
+      "title": "木、金属与石：体鸣乐器",
+      "path": "chapters/14-idiophones.md",
+      "slug": "idiophones"
+    },
+    {
+      "id": "15",
+      "title": "键盘背后：钢琴与击拨弦机构",
+      "path": "chapters/15-piano.md",
+      "slug": "piano"
+    },
+    {
+      "id": "16",
+      "title": "管风琴到合成器",
+      "path": "chapters/16-organ-electronic.md",
+      "slug": "organ-electronic"
+    },
+    {
+      "id": "17",
+      "title": "合奏：乐器怎样相互留下空间",
+      "path": "chapters/17-ensembles.md",
+      "slug": "ensembles"
+    },
+    {
+      "id": "18",
+      "title": "读谱、节拍与调律",
+      "path": "chapters/18-notation.md",
+      "slug": "notation"
+    },
+    {
+      "id": "19",
+      "title": "听辨实验室",
+      "path": "chapters/19-ear.md",
+      "slug": "ear"
+    },
+    {
+      "id": "20",
+      "title": "第一次演奏：三个小练习",
+      "path": "chapters/20-first-play.md",
+      "slug": "first-play"
+    },
+    {
+      "id": "21",
+      "title": "选择、练习与照顾乐器",
+      "path": "chapters/21-practice-care.md",
+      "slug": "practice-care"
+    },
+    {
+      "id": "22",
+      "title": "录音、数字连接与小制作",
+      "path": "chapters/22-record-making.md",
+      "slug": "record-making"
+    }
+  ],
+  "appendices": [
+    {
+      "id": "glossary",
+      "title": "术语与阅读路线",
+      "path": "appendices/glossary.md",
+      "slug": "glossary"
+    },
+    {
+      "id": "listening-guide",
+      "title": "试听与离线实验",
+      "path": "appendices/listening.md",
+      "slug": "listening-guide"
+    }
+  ]
+}
